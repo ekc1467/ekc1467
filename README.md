@@ -1,9 +1,40 @@
 ### Hi there 👋
 
-<!--
-**ekc1467/ekc1467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Vision architect
+
+- I majored in computer science at Kyungpook National University.
+
+
+## Features
+
+- AI·Deep Learning
+- Front-End
+- APP
+
+> Let's be the best.
+
+
+I'm an aspiring programmer who wants to be an artist.
+
+## Tech
+
+- [HTML-CSS-JS]
+- [React]
+- [Java] 
+- [Firebase] 
+- [Python] 
+
+## More
+Additionally
+
+|  TF| Tool |
+| ------ | ------ |
+| APP | ANDROID STUDIO(JAVA), REACT NATIVE(REACT JS) |
+| WEB | REACT JS, Firebase |
+| AI | Tensor(python) |
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
