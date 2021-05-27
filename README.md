@@ -3,8 +3,7 @@
 
 ## Vision architect
 
-- I majored in computer science at Kyungpook National University.
-
+- I majored in Computer Vision Engineer
 
 ## Features
 
