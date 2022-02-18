@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekc1467&theme=maroongold&show_icons=true)
+
+
 ### Hi there 👋
 
 
@@ -19,19 +22,20 @@ I'm an aspiring programmer who wants to be an artist.
 ## Tech
 
 - [HTML-CSS-JS]
-- [React]
 - [Java] 
-- [Firebase] 
 - [Python] 
+- [C#]
 
 ## More
 Additionally
 
 |  TF| Tool |
 | ------ | ------ |
-| APP | ANDROID STUDIO(JAVA), REACT NATIVE(REACT JS) |
-| WEB | REACT JS, Firebase |
+| APP | ANDROID STUDIO(JAVA) |
+| Front-End | REACT JS |
+| Back-End | SPRING |
 | AI | Tensor(python) |
+| GAME PROGRAMMING | UNITY |
 
 
 
